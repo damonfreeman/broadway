@@ -3,7 +3,7 @@ body {
   text-align: center;
 }
 
-.topheading {
+.topheading h1 {
   font-family: helvetica;
   font-size: 18px;
   color: white;
