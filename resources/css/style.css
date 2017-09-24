@@ -1,4 +1,10 @@
 body {
-  background-image: image("resources/images/broadway.png");
+  background-image: url("resources/images/broadway.png");
   text-align: center;
+}
+
+.topheading {
+  font-family: helvetica;
+  font-size: 18px;
+  color: white;
 }
