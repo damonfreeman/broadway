@@ -1,3 +1,4 @@
 body {
-  background-image: url("resources/images/broadway.png");
+  background-image: image("resources/images/broadway.png");
+  text-align: center;
 }
