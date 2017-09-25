@@ -29,11 +29,33 @@ body {
   font-weight: bold;
 }
 
-#identifytxt {
+.text {
   font-size: 14px;
   }
 
 #understand {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.designed {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+
+}
+
+
+#newyork {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+
+#portfolio {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+#team {
   font-size: 23px;
   font-weight: bold;
 }
